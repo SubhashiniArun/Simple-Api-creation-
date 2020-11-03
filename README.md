@@ -1,4 +1,4 @@
-# Lyft_Project
+# POST request to API
 
 Code allows you to send a POST request to the route '/test' that takes a string "string_to_cut" as an argument. The code returns a key “return_string” and a string containing every third letter from the original string.
 
